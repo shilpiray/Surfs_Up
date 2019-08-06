@@ -9,11 +9,11 @@ Also included an Flask API Application to query:
 
 
 
-![image](precipitation.png)                                             ![image](Temperature_histogram.png)
+![image](precipitation.png)                                     ![image](Temperature_histogram.png)
 
 
 
 
 
-![image](Avg_temp_bar.png)                                               ![image](area_plot.png)
+![image](Avg_temp_bar.png)                                       ![image](area_plot.png)
  
