@@ -8,6 +8,9 @@ Also included an Flask API Application to query:
 * Minimum temperature, the average temperature, and the max temperature for a given start and/or start-end range inlcusive.
 
 
+# Observable Trends
+
+
 
 ![image](precipitation.png)                                     ![image](Temperature_histogram.png)
 
