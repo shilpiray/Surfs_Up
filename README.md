@@ -20,5 +20,5 @@ Paired t-test has been done on the temperature of June and December with an alph
 
 
 
-![image](Avg_temp_bar.png)                                       ![image](area_plot.png)
+![image](Avg_temp_bar.png)                                           ![image](area_plot.png)
  
