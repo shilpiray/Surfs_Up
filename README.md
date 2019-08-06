@@ -9,4 +9,4 @@ Also included an Flask API Application to query:
 
 
 
-![image][precipitation.png]
+![picture][precipitation.png]
