@@ -1,5 +1,5 @@
 # Surfs_Up
-Climate analysis and data exploration of climate database has been done on Jupyter Notebook using Python and SQLAlchemy.
+Climate analysis and data exploration has been done using Python and SQLAlchemy.
 
 Also included an Flask API Application to query:
 * Precipitations from last year
